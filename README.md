@@ -7,7 +7,7 @@ This repository holds the public releases of Parallax for Mac, plus the `paralla
 
 ## Install
 
-**Download the app:** [**Parallax-macos.dmg**](https://github.com/ConiferKit/parallax-releases/releases/latest/download/Parallax-macos.dmg).
+**Download the app:** [**Parallax-macos.dmg**](https://www.conifer.build/api/download/parallax/Parallax-macos.dmg?src=readme).
 Open it and drag Parallax to Applications.
 
 **Or install from a terminal:**
